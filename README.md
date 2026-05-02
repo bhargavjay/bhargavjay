@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Bhargav 👋
 
-<!--
-**bhargavjay/bhargavjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist | Python | Machine Learning | SQL | Fraud Detection  
+Open to Graduate / Junior Data Scientist roles in the UK.
 
-Here are some ideas to get you started:
+I work on data science projects involving machine learning, exploratory data analysis, feature engineering, and model evaluation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python • SQL • Pandas • NumPy • Scikit-learn • Machine Learning • Data Analysis • Data Visualisation • SHAP • LIME
+
+## Featured Projects
+
+### AI Cryptocurrency Fraud Detection
+Machine learning project focused on detecting fraudulent cryptocurrency transactions using Random Forest, Logistic Regression, XGBoost, Federated Learning, SHAP and LIME.
+
+### Customer Churn Prediction
+Machine learning project focused on identifying customers likely to leave and supporting retention decisions.
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/bhargav-ejjagiri-484461112  
+Portfolio: https://www.mbinfotechsolutions.com
